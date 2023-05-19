@@ -1,0 +1,15 @@
+<script setup>
+import AppTitle from "./components/AppTitle.vue";
+import AppHero from "./components/AppHero.vue";
+
+</script>
+
+<template>
+    <app-title/>
+    <app-hero/>
+</template>
+
+<style>
+
+
+</style>
